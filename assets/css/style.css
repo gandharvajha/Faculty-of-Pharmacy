@@ -444,7 +444,7 @@ header {
     .nav-list>li {
         display: inline-block;
         text-align: left;
-        margin-right: 10px
+        margin-right: 6px
     }
 
     .nav-list>li:last-child {
@@ -1021,7 +1021,7 @@ header {
 
 @media (max-width: 991px) {
     .nav-list>li>a {
-        font-size: 12px
+        font-size: 10px
     }
 
     .logo {
