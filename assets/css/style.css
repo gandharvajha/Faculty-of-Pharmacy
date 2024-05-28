@@ -265,7 +265,7 @@ img {
 
 .version-2 .title-line-left:before,
 .version-2 .title-line:before {
-    background-color: #2ccfbb
+    background-color: #1a4364;
 }
 
 .title-line:before {
@@ -3766,7 +3766,7 @@ footer h6 {
     left: 0;
     width: 42px;
     height: 3px;
-    background-color: #2ccfbb
+    background-color: #1a4364;
 }
 
 .our-speakers .speaker-item .speaker-item-content p {
